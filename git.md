@@ -92,3 +92,7 @@ git push <name> <local branch>:<remote branch>
 ```
 Обычно вы пушаете в `origin`, но это не всегда так.
 
+Если вы хотите поменять URL репозитория на удаленном сервере, используйте команду
+```
+git remote set-url <name> <new url>
+```
