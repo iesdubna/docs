@@ -4,6 +4,8 @@
 - [С чистого листа или git reset](https://youtu.be/n878ciNBF48)
 
 # Python
+## Разное
+- [Yaml формат: как использовать](https://youtu.be/f0BePOC20fU)
 ## NLTK
 - [NLTK как начать работать](https://youtu.be/OoW1qHmMdKs)
 
