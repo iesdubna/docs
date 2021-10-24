@@ -9,3 +9,6 @@
 ## NLTK
 - [NLTK как начать работать](https://youtu.be/OoW1qHmMdKs)
 
+# HW
+- [HW3](https://youtu.be/irSOOCIMjdI)
+
